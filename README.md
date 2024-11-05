@@ -73,3 +73,12 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Maksym
+
+https://prnt.sc/KZfCM9pep42K
+It shows you what I am doing now.
+
+This is my Telegram https://t.me/Aroma1997. If possible, let's contact here. I need to ask you something.
+
+Thanks
