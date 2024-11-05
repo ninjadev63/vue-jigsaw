@@ -73,3 +73,11 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Maksym Balio
+I checked your details and project carefully and started working already. jigsaw.js file is a little big for me to understand the entire logic.
+I can do it within 1 day. And then I will send proposals on Upwork.
+By the way, please share the git access to push new branch. That's why I updated this readme even though it's very uncomfortable for you.
+
+Sorry.
+
